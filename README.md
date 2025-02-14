@@ -1,4 +1,4 @@
-Hi! I'm Haidar Fico, I'm currently a student at Institut Teknologi Sepuluh Nopember. I'm currently learning web development!
+Hi! I'm Haidar Fico, I'm a developer. feel free to see through my page! 
 
 <!---
 HaidarFico/HaidarFico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
